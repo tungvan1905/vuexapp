@@ -1,0 +1,11 @@
+Làm code vòng đời 
+Đọc đồng bộ và bất đồng bộ
+truyền dữ liệu từ các component - cha sang con ...
+Đọc vue router
+biến trong js
+2 way binding
+scope style trong vue
+virual dom là gì?
+Tại sao lại dùng vuex - nhược điểm của nó
+es6 - Tại sao lại dùng vuejs mà k dùng cái khác
+Khác nhau giữa computed và getter
